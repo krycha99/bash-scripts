@@ -48,5 +48,4 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 ## 📌 Notes
 
 - All scripts are written for educational purposes.
-- Contributions and improvements are welcome — feel free to fork and suggest changes.
 - Tested on Ubuntu 22.04 / WSL2.
