@@ -8,4 +8,5 @@ read name
 system=$(uname)
 date=$(date +"%A, %d %B")
 
+#printing message with variables
 echo "Hello, $name! Today is $date. You working on $system."
