@@ -3,4 +3,9 @@
 #asking for name
 echo -n "Type your name: "
 read name
-echo "Hello, $name!"
+
+#reading system name and current date to variables
+system=$(uname)
+date=$(date +"%A, %d %B")
+
+echo "Hello, $name! Today is $date. You working on $system."
