@@ -34,6 +34,7 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 - `conditions.sh` – Example of if/else logic
 - `loops.sh` – For and while loop demonstrations
 - `functions.sh` – Defining and calling functions
+- `arrays.sh` – Initialization and comparison of arrays
 
 ## 📚 Learning Objectives
 
