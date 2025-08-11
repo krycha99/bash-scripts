@@ -7,6 +7,7 @@ This repository contains a collection of Bash scripts created for learning, auto
 ```
 bash-scripts/
 ├── basics/             # Introductory scripts (variables, conditions, loops, etc.)
+├── tools/              # Utility scripts (backup tool)
 └── README.md           # This file
 ```
 
@@ -36,6 +37,9 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 - `functions.sh` – Defining and calling functions
 - `arrays.sh` – Initialization and comparison of arrays
 - `files.sh` – File operations
+
+### 🛠️ Tools
+- `backup.sh` – Simple backup script
 
 ## 📚 Learning Objectives
 
