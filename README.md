@@ -40,7 +40,7 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 
 ### 🛠️ Tools
 - `backup.sh` – Simple backup script
-- `ping-checker.sh` – Pings a list of hosts and reports availability
+- `ping_checker.sh` – Pings a list of hosts and reports availability
 
 ## 📚 Learning Objectives
 
