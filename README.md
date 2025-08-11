@@ -35,6 +35,7 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 - `loops.sh` – For and while loop demonstrations
 - `functions.sh` – Defining and calling functions
 - `arrays.sh` – Initialization and comparison of arrays
+- `files.sh` – File operations
 
 ## 📚 Learning Objectives
 
