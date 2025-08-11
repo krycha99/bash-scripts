@@ -7,7 +7,7 @@ This repository contains a collection of Bash scripts created for learning, auto
 ```
 bash-scripts/
 ├── basics/             # Introductory scripts (variables, conditions, loops, etc.)
-├── tools/              # Utility scripts (ping checker, backup tool, etc.)
+├── tools/              # Utility scripts (ping checker, cleanup, backup tool, etc.)
 └── README.md           # This file
 ```
 
@@ -41,6 +41,7 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 ### 🛠️ Tools
 - `backup.sh` – Simple backup script
 - `ping_checker.sh` – Pings a list of hosts and reports availability
+- `cleanup.sh` – Deletes files older than X days
 
 ## 📚 Learning Objectives
 
