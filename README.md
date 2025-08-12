@@ -42,7 +42,8 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 - `backup.sh` – Simple backup script
 - `ping_checker.sh` – Pings a list of hosts and reports availability
 - `cleanup.sh` – Deletes files older than X days
-- `site_opener.sh` – Opens multiple websites from "sites.txt" file 
+- `site_opener.sh` – Opens multiple websites from "sites.txt" file
+- `htop_installer.sh` – Installs basic package `htop`
 
 ## 📚 Learning Objectives
 
