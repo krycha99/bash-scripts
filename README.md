@@ -8,6 +8,7 @@ This repository contains a collection of Bash scripts created for learning, auto
 bash-scripts/
 ├── basics/             # Introductory scripts (variables, conditions, loops, etc.)
 ├── tools/              # Utility scripts (ping checker, cleanup, backup tool, etc.)
+├── system-monitor/     # Monitoring scripts and cron setup
 └── README.md           # This file
 ```
 
@@ -44,6 +45,10 @@ Make sure you're using a Linux environment or WSL (Windows Subsystem for Linux) 
 - `cleanup.sh` – Deletes files older than X days
 - `site_opener.sh` – Opens multiple websites from "sites.txt" file
 - `htop_installer.sh` – Installs basic package `htop`
+
+### 📊 System Monitoring
+- `monitor.sh` – Logs CPU and memory usage periodically
+- `cron-setup.txt` – Example of a cron job for scheduled monitoring
 
 ## 📚 Learning Objectives
 
