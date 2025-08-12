@@ -1,0 +1,4 @@
+# Run monitor.sh every 5 minutes
+# use crontab -e and add this line at the end
+# */5 - period, path to bash, path to script
+*/5 * * * * /bin/bash ~/Desktop/bash-scripts/system-monitor/monitor.sh
